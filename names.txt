@@ -1,2 +1,3 @@
 Prateek Pathak
 React Developer
+Btech CSE
